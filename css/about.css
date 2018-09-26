@@ -1,0 +1,100 @@
+ body{
+   background-image:url("../img/Backgroud-img.jpg");
+background-size: 100% 100%;
+}
+ 
+  
+  
+
+
+#header>p{
+color: FloralWhite ;
+font-size:30px;
+text-align:center;
+padding-top:30px;
+position: relative;
+left: 100px;
+width: 55%;
+
+
+
+}
+#header{
+  border-radius:10px;
+   border:2px solid DarkRed;
+  background-color:#3f0705;
+  width: 100%;
+  height:160px;
+}
+#backb>a>img{
+  width:100%;
+  height: 50px;
+  font-size: 25px;
+ border-radius: 20px;
+ 
+
+}
+#backb{
+  width:11%;
+  height: 50px;
+ border-radius: 20px;
+ padding:2px;
+text-decoration:none;
+color:FloralWhite;
+background-color:white;
+position: relative;
+bottom: 160px;
+border: 10px solid #3f0705;
+}
+   
+   #home>a>img{
+  width:100%;
+  height: 50px;
+  font-size: 25px;
+ border-radius: 20px;
+ 
+
+}
+#home{
+  width:11%;
+  height: 50px;
+ border-radius: 20px;
+ padding:2px;
+text-decoration:none;
+color:FloralWhite;
+background-color:white;
+position: relative;
+bottom: 230px;
+left: 330px;
+border: 10px solid #3f0705;
+}
+#moharophi{
+  background-image:url("../img/index.jpg");
+background-size: 100% 100%;
+background-attachment: fixed;
+width:90%;
+margin: auto;
+
+box-shadow: 2px 1px 5px #3f0705;
+ border-radius: 5px;
+ margin-top: 70px;
+}
+#moharophi>p{
+  font-family: Lucida Calligraphy;
+  font-size: 20px;
+  margin: 20px;
+  text-decoration:ltr;
+  text-indent: 10px;
+  text-align: justify;
+  color: white;
+  text-shadow:3px 3px 8px #3f0705;
+
+}
+#moharophi>h1{
+text-align: center;
+color: white;
+
+}
+
+@media only screen and (max-width:1024px){
+  

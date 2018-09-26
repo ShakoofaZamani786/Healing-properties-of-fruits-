@@ -1,0 +1,134 @@
+	body{
+		background-image:url("../img/Backgroud-img.jpg");
+background-size: 100% 100%;
+background-attachment: fixed;
+	}	
+
+#but1{																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																							
+font-size:25px;
+background-color:black;
+color:white;
+border:1px solid gray;
+padding:10px;
+border-radius:14px;
+}
+#jav:hover{
+background-color: #b60302;
+cursor:pointer;
+box-shadow: 3px 3px 8px  black;
+}
+#jav{
+font-size:25px;
+background-color:black;
+color:white;
+border:1px solid gray;
+padding:10px;
+border-radius:14px;
+
+
+}
+#but1:hover{
+background-color: #b60302;
+cursor:pointer;
+box-shadow: 3px 3px 8px  black;
+}
+
+#decimal{
+
+width:60%;
+margin: auto;
+height: 300px;
+margin-top:50px;
+
+
+}
+#decimal>a>button{
+background-color:#3f0705;
+width: 100%;
+margin-bottom: 18px; }
+#div{
+background-color:white;
+width:30%;
+margin: auto;
+height:640px;
+border-radius:20px;
+box-shadow:0px 0px 80px rgb(69,0,0);
+
+
+}
+
+p{
+color: FloralWhite ;
+font-size:30px;
+text-align:center;
+position: relative;
+top: 30px;
+
+
+}
+#header{
+	border-radius:10px;
+   border:2px solid DarkRed;
+	background-color:#3f0705;
+	width: 100%;
+	height:160px;
+}
+
+#close>a>img{
+	width: 100%;
+	font-size: 25px;
+ border-radius: 20px;
+ background-color: white;
+ 
+
+}
+#close{
+width:11%;
+height:50px;
+ border-radius:22px;
+ padding:3px;
+text-decoration:none;
+color:FloralWhite;
+background-color: white;
+position: relative;
+bottom: 127px;
+left: 336px;
+border:10px solid #3f0705;
+}
+#t1{
+	float: right;
+}
+select{
+	background-color:#3f0705;
+	font-size: 20px;
+	width: 20%;
+	color: white;
+	border:1px solid white;
+
+}
+@media only screen and (max-width:1024px){
+
+	#div{
+width:60%;
+height:1060px;
+}
+#but1{
+font-size:50px;
+padding:15px;
+
+}
+#jav{
+font-size:45px;
+padding:14px;
+}
+#decimal>a>button{
+margin-bottom: 28px; 
+position: relative;
+top:70px;
+}
+p{
+font-size:50px;;
+position: relative;
+top: 0px;
+}
+}
